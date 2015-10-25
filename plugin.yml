@@ -1,0 +1,7 @@
+name: ServerVote
+main: _DelthaX\servervote\ServerVote
+version: "1.0"
+api: [2.0.0]
+load: STARTUP
+author: DelthaX
+website: https://github.com/DelthaX/ServerVote
